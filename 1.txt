@@ -1,2 +1,2 @@
-Git is a version control system. gaofeng
-Git is free software.  change   android
+Git is a version control system.
+Git is freee softwar.
